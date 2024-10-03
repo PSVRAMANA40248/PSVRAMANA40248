@@ -7,4 +7,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<h3>Connect with Me!</h3>
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/pusarla-sai-venkat-ramana-a44931300/">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
+</a>&nbsp;&nbsp;
+
+</p>
 
