@@ -13,7 +13,7 @@
 
 <h3 align="left">My Certificate:</h3>
 <p align="left">
-  <img src="" alt="My Certificate" width="500" />
+  <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/CERTIFICATE%20OF%20PYTHON.png" alt="My Certificate" width="50" />
 </p>
 
   
