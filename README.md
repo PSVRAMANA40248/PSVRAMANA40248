@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm P.SAI VENKAT RAMANA</h1>
-<h3 align="center">A passionate Electronics Engineering from India</h3>
+<h3 align="center">A passionate Electronics Engineering And Bachelor of Business Administration (Online) from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
