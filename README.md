@@ -14,9 +14,9 @@
 <h3 align="left">My Certificate:</h3>
 <p align="left">
   <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/CERTIFICATE%20OF%20PYTHON.png" alt="My Certificate" width="50" />
+    <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/PROBLEM%20SOLVING(BASICS).pn" alt="My Certificate" width="50" />
 </p>
 
-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/pusarla-sai-venkat-ramana-a44931300/" target="blank">
