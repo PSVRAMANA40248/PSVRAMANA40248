@@ -1,4 +1,4 @@
-<img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202024-10-14%20004348.png" alt="logo" width="1000" height="300"/>
+G<img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202024-10-14%20004348.png" alt="logo" width="1000" height="300"/>
 <h1 align="center">Hi 👋, I'm P.SAI VENKAT RAMANA</h1>
 <h2 align="center">A passionate Electronics Engineering And Bachelor of Business Administration (Online) from India</h2>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -14,7 +14,7 @@
 <h3 align="left">My Certificate:</h3>
 <p align="left">
   <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/CERTIFICATE%20OF%20PYTHON.png" alt="My Certificate" width="50" />
-    <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/PROBLEM%20SOLVING(BASICS).pn" alt="My Certificate" width="50" />
+  <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/PROBLEM%20SOLVING(BASICS).png" alt="My Certificate" width="50" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
