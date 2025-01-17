@@ -16,7 +16,8 @@
   <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Mat_Lab.png" alt="My Certificate" width="50" />
     <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202024-10-25%20224410.png" alt="My Certificate" width="50" />
     <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202024-11-05%20185322.png" alt="My Certificate" width="50" />
- 
+    <img src="" alt="My Certificate" width="50" />
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
