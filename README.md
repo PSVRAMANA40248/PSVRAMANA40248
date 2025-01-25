@@ -18,6 +18,7 @@
     <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202024-11-05%20185322.png" alt="My Certificate" width="50" />
     <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/c%20lang%2Bms.jpg" alt="My Certificate" width="50" />
     <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/coder.jpg" alt="My Certificate" width="50" />
+     <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202025-01-25%20094612.png" width="50" />
 
 
 <h3 align="left">Connect with me:</h3>
