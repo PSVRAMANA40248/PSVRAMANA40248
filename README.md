@@ -1,60 +1,34 @@
-<div align="center">
+<img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202024-10-14%20004348.png" alt="logo" width="1000" height="300"/>
+<h1 align="center">Hi 👋, I'm P.SAI VENKAT RAMANA</h1>
+<h2 align="center">A passionate Electronics and Communication Engineering And Bachelor of Business Administration (Online) from India</h2>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PUSARLA%20SAI%20VENKAT%20RAMANA&fontSize=40&fontAlignY=32&desc=VLSI%20Enthusiast%20%7C%20Digital%20Design%20Engineer%20%7C%20ECE%20Student&descAlignY=52&descAlign=50&animation=twinkling" width="100%" alt="Profile banner"/>
 
-### Building digital systems, verification logic, and embedded solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&labelColor=000000)](https://psvramana40248.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/pusarla-sai-venkat-ramana-a44931300/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:psvr120205@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/pusarla_ramana/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-</div>
+<h3 align="left">My Certificates:</h3>
+<p align="left">
+  <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/CERTIFICATE%20OF%20PYTHON.png" alt="My Certificate" width="50" />
+  <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/PROBLEM%20SOLVING(BASICS).png" alt="My Certificate" width="50" />
+  <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Mat_Lab.png" alt="My Certificate" width="50" />
+    <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202024-10-25%20224410.png" alt="My Certificate" width="50" />
+    <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202024-11-05%20185322.png" alt="My Certificate" width="50" />
+    <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/c%20lang%2Bms.jpg" alt="My Certificate" width="50" />
+    <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/coder.jpg" alt="My Certificate" width="50" />
+     <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202025-01-25%20094612.png" width="50" />
 
----
 
-## About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pusarla-sai-venkat-ramana-a44931300/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pusarla Sai Venkat Ramana" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/pusarla_ramana" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Pusarla Ramana" height="30" width="40" />
+  </a>
 
-I’m a VLSI and digital design enthusiast focused on Verilog, SystemVerilog, FPGA development, and embedded systems. I enjoy turning theoretical concepts into practical hardware solutions with clean design and verification.
-
-## Current Focus
-- VLSI design and digital logic.
-- Verilog HDL and SystemVerilog.
-- FPGA prototyping and verification.
-- Embedded systems and IoT projects.
-
-## Highlights
-- CGPA 9.77 in B.Tech ECE.
-- Strong interest in hardware verification and implementation.
-- Experience with Cadence, Vivado, Arduino, STM32, and VS Code.
-
-## Featured Projects
-- **8-Bit Adder Using SystemVerilog** — parameterized RTL with verification.
-- **SPI Slave Implementation** — Verilog module for FPGA communication.
-- **Smart Plant Monitoring System** — STM32-based IoT project for soil monitoring.
-
-## Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge" alt="Verilog"/>
-  <img src="https://img.shields.io/badge/SystemVerilog-6A1B9A?style=for-the-badge" alt="SystemVerilog"/>
-  <img src="https://img.shields.io/badge/FPGA-F57C00?style=for-the-badge" alt="FPGA"/>
-  <img src="https://img.shields.io/badge/Embedded_Systems-455A64?style=for-the-badge" alt="Embedded Systems"/>
 </p>
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PSVRAMANA40248&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PSVRAMANA40248&theme=radical&hide_border=true" alt="GitHub streak" height="170"/>
-</p>
-
-## Contact
-- Portfolio: [psvramana40248.vercel.app](https://psvramana40248.vercel.app)
-- LinkedIn: [pusarla-sai-venkat-ramana-a44931300](https://www.linkedin.com/in/pusarla-sai-venkat-ramana-a44931300/)
-- Email: [psvr120205@gmail.com](mailto:psvr120205@gmail.com)
-
-<div align="center">
-
-**Open to internships, collaborations, and hardware verification opportunities.**
-
-</div>
