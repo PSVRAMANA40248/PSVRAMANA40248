@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a3e,100:24243e&height=280&section=header&text=YOUR%20NAME%20HERE&fontSize=48&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=VLSI%20Design%20Engineer%20%7C%20Fresher&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a3e,100:24243e&height=280&section=header&text=P.SAI%20VENKAT%20RAMANA&fontSize=44&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=VLSI%20Design%20Engineer%20%7C%20Fresher&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Turning+Transistors+into+Systems;RTL+%E2%86%92+Gate+%E2%86%92+Silicon;Digital+%2B+Analog+IC+Design;Fresher+%7C+Open+to+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Turning+Transistors+into+Systems;RTL+%E2%86%92+Gate+%E2%86%92+Silicon;Digital+%2B+Analog+IC+Design;Fresher+%7C+Open+to+Opportunities" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -25,10 +25,11 @@
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 ```yaml
-name: "Your Name"
+name: "P. Sai Venkat Ramana"
 role: "VLSI Engineering Enthusiast"
 education:
-  degree: "B.Tech - Electronics & Communication Engineering"
+  degree_1: "B.Tech - Electronics & Communication Engineering"
+  degree_2: "BBA (Online)"
   status: "Fresher"
 interests:
   - Digital IC Design (RTL to GDSII)
@@ -64,45 +65,43 @@ Static Timing Analysis → Physical Design (Place & Route) → DRC/LVS → GDSII
 
 <div align="center">
 
-### 🖥️ HDL & Languages
-<img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logo=v&logoColor=white"/>
-<img src="https://img.shields.io/badge/VHDL-9146FF?style=for-the-badge&logo=v&logoColor=white"/>
-<img src="https://img.shields.io/badge/SystemVerilog-00BFFF?style=for-the-badge&logo=v&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+### 🖥️ Languages
+<img src="https://skillicons.dev/icons?i=c,java,python&theme=dark" />
 
-### 🛠️ EDA & Simulation Tools
-<img src="https://img.shields.io/badge/Cadence%20Virtuoso-00BFFF?style=for-the-badge&logo=cadence&logoColor=white"/>
-<img src="https://img.shields.io/badge/Synopsys%20Design%20Compiler-8A2BE2?style=for-the-badge&logo=synopsys&logoColor=white"/>
+### 🛠️ VLSI / EDA Tools
+<img src="https://img.shields.io/badge/Cadence-00BFFF?style=for-the-badge&logo=cadence&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xilinx%20Vivado-E10098?style=for-the-badge&logo=xilinx&logoColor=white"/>
-<img src="https://img.shields.io/badge/ModelSim-00F0FF?style=for-the-badge&logo=v&logoColor=black"/>
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog%2FVHDL-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ModelSim-00F0FF?style=for-the-badge&logoColor=black"/>
 
 ### 🧪 Verification & Flow
-<img src="https://img.shields.io/badge/UVM-9146FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Static%20Timing%20Analysis-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Static%20Timing%20Analysis-9146FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DFT-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" />
 
 </div>
 
 ---
 
-## 🏆 Certifications
+## 🏆 My Certificates
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="200"><img src="https://img.shields.io/badge/🎓-Certificate%201-0d1117?style=for-the-badge&labelColor=0d1117&color=00F0FF"/><br/><sub><b>Add Certificate Name</b></sub></td>
-<td align="center" width="200"><img src="https://img.shields.io/badge/🎓-Certificate%202-0d1117?style=for-the-badge&labelColor=0d1117&color=8A2BE2"/><br/><sub><b>Add Certificate Name</b></sub></td>
-<td align="center" width="200"><img src="https://img.shields.io/badge/🎓-Certificate%203-0d1117?style=for-the-badge&labelColor=0d1117&color=00BFFF"/><br/><sub><b>Add Certificate Name</b></sub></td>
+<td align="center"><a href="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/CERTIFICATE%20OF%20PYTHON.png"><img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/CERTIFICATE%20OF%20PYTHON.png" width="140"/></a><br/><sub><b>Python Programming</b></sub></td>
+<td align="center"><a href="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/PROBLEM%20SOLVING(BASICS).png"><img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/PROBLEM%20SOLVING(BASICS).png" width="140"/></a><br/><sub><b>Problem Solving (Basics)</b></sub></td>
+<td align="center"><a href="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Mat_Lab.png"><img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Mat_Lab.png" width="140"/></a><br/><sub><b>MATLAB</b></sub></td>
+<td align="center"><a href="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202024-10-25%20224410.png"><img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202024-10-25%20224410.png" width="140"/></a><br/><sub><b>Certificate</b></sub></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202024-11-05%20185322.png"><img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202024-11-05%20185322.png" width="140"/></a><br/><sub><b>Certificate</b></sub></td>
+<td align="center"><a href="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/c%20lang%2Bms.jpg"><img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/c%20lang%2Bms.jpg" width="140"/></a><br/><sub><b>C Language + MS</b></sub></td>
+<td align="center"><a href="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/coder.jpg"><img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/coder.jpg" width="140"/></a><br/><sub><b>Coder</b></sub></td>
+<td align="center"><a href="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202025-01-25%20094612.png"><img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202025-01-25%20094612.png" width="140"/></a><br/><sub><b>Certificate</b></sub></td>
 </tr>
 </table>
-
-<sub>Replace these badges with links to your actual certificate images, e.g.<br/>
-<code>&lt;img src="https://github.com/USERNAME/USERNAME/blob/main/certificate.png" width="140"/&gt;</code></sub>
 
 </div>
 
@@ -112,16 +111,16 @@ Static Timing Analysis → Physical Design (Place & Route) → DRC/LVS → GDSII
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=8A2BE2&text_color=c9d1d9&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PSVRAMANA40248&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=8A2BE2&text_color=c9d1d9&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSVRAMANA40248&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PSVRAMANA40248&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F0FF&line=8A2BE2&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PSVRAMANA40248&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F0FF&line=8A2BE2&point=ffffff" width="95%"/>
 
 </div>
 
@@ -143,23 +142,20 @@ Static Timing Analysis → Physical Design (Place & Route) → DRC/LVS → GDSII
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect with Me
 
 <div align="center">
 
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/pusarla-sai-venkat-ramana-a44931300/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="#" target="_blank">
+<a href="https://instagram.com/pusarla_ramana" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=PSVRAMANA40248&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
 
 </div>
 
